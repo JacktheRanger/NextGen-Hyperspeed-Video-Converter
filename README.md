@@ -112,6 +112,8 @@ GNU GPL v3.0
 ## 中文
 
 一款功能强大的批量视频GUI转换工具， 将您的老视频文件转换最稳定的格式。
+<img width="1873" height="1556" alt="image" src="https://github.com/user-attachments/assets/a431537d-a159-409c-8d31-14cb00ac5d09" />
+
 
 ### ✨ 功能特点
 
@@ -209,6 +211,7 @@ GNU GPL v3.0
 ### 👤 作者
 
 **Jack Ji**
+
 
 
 
