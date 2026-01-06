@@ -64,7 +64,7 @@ A powerful batch video converter with GUI that converts your old video files to 
 1. Place the script in the folder containing videos (or its parent folder)
 2. Double-click the script (recommended) or run it from terminal:
    ```powershell
-   python "(Vx.xx) Universal Video to MP4 Converter.py"
+   python "(Vx.x.x) Universal Video to MP4 Converter.py"
    ```
 3. Select language (English/Chinese)
 4. Follow the interactive prompts
@@ -189,7 +189,7 @@ GNU GPL v3.0
 1. 将脚本放置在包含视频的文件夹中（或其父文件夹）
 2. 双击脚本运行（推荐）或从终端执行:
    ```powershell
-   python "(Vx.xx) Universal Video to MP4 Converter.py"
+   python "(Vx.x.x) Universal Video to MP4 Converter.py"
    ```
 3. 选择语言（英文/中文）
 4. 按照交互式提示操作
@@ -251,6 +251,7 @@ GNU GPL v3.0
 ### 👤 作者
 
 **Jack Ji**
+
 
 
 
