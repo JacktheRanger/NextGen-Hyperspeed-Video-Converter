@@ -30,7 +30,7 @@ A powerful batch video converter with GUI that converts your old video files to 
 | `.mts`, `.m2ts`, `.m2t`, `.ts`, `.m4v` | Container | Remux Recommended (faster, more stable) |
 | `.vob`, `.mpg`, `.avi`, `.wmv`, `.flv`, `.3gp` | Legacy | Transcode + Remux |
 
-### 🔧 System Requirements
+### 🔧 System Requirements （Must Read）
 
 - **OS**: Windows 10/11 (64-bit)
 - **GPU**: NVIDIA GPU with NVENC support (GTX 10 series or newer recommended)
@@ -227,6 +227,7 @@ GNU GPL v3.0
 ### 👤 作者
 
 **Jack Ji**
+
 
 
 
