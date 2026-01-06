@@ -8,6 +8,8 @@
 
 A powerful batch video converter that converts your old video files to the most stable format with NVENC hardware acceleration support, and bilingual interface (English/Chinese).
 
+<img width="1823" height="1548" alt="image" src="https://github.com/user-attachments/assets/6e3ffbd8-a23b-4919-8731-cfaf17cfcba4" />
+
 ### ✨ Features
 
 - **Universal Format Support**: Convert any video format to H.265 MP4
@@ -227,3 +229,4 @@ GNU GPL v3.0
 ### 👤 作者
 
 **Jack Ji**
+
