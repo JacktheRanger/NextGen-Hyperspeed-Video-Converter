@@ -1,6 +1,8 @@
 # 🎬 Universal Video to H.265 MP4 Batch Converter
 
-[English](#english) | [中文](#中文)
+[English](#english) | [中文](#中文)  <p align="right">
+<img src="https://img.shields.io/github/downloads/JacktheRanger/Video-Converter/total.svg" alt="Downloads" />
+</p>
 
 ---
 
@@ -8,9 +10,7 @@
 
 A powerful batch video converter with GUI that converts your old video files to the most stable format with NVENC hardware acceleration support, and bilingual interface (English/Chinese).
 
-<p align="right">
-<img src="https://img.shields.io/github/downloads/JacktheRanger/Video-Converter/total.svg" alt="Downloads" />
-</p>
+
 
 
 
@@ -343,6 +343,7 @@ GNU GPL v3.0
 ### 👤 作者
 
 **Jack Ji**
+
 
 
 
