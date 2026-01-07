@@ -1,4 +1,4 @@
-# 🎬 NextGen Universal Video Batch Converter
+# 🎬 NextGen Universal Video Converter
 
 <img align="right" src="https://img.shields.io/github/downloads/JacktheRanger/Video-Converter/total.svg?label=Downloads" alt="Downloads" />
 
@@ -392,6 +392,7 @@ GNU GPL v3.0
 ### 👤 作者
 
 **Jack Ji**
+
 
 
 
