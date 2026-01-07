@@ -38,36 +38,53 @@ A powerful batch video converter with GUI that converts your old video files to 
 
 ### 🚀 Installation
 
+#### Option A: Download EXE (Recommended - Easiest)
+
 1. **Install FFmpeg** (Required)
-   - Option A: Using winget
+   - Using winget:
      ```powershell
      winget install FFmpeg
      ```
-   - Option B: Manual installation from https://ffmpeg.org/download.html
+   - Or download manually from https://ffmpeg.org/download.html
    - ⚠️ **Important**: FFmpeg must be added to system PATH
    - Verify installation:
      ```powershell
      ffmpeg -version
      ```
 
+2. **Download the EXE**
+   - Go to [Releases](../../releases) page
+   - Download `V1.3.1.Universal.Video.Converter.exe`
+   - That's it! No Python required.
+
+#### Option B: Run from Source (For developers)
+
+1. **Install FFmpeg** (same as above)
+
 2. **Install Python** (3.8+, recommended 3.12.10)
    - Download from: https://www.python.org/downloads/
    - No additional pip packages required - uses only built-in modules
 
 3. **Download the script**
-   - Download or clone the script to your desired location
+   - Clone or download `V1.3.1.Universal.Video.Converter.py`
 
 ### 📖 Usage
 
-#### Basic Usage
+#### Using EXE Version
 
-1. Place the script in the folder containing videos (or its parent folder)
-2. Double-click the script (recommended) or run it from terminal:
-   ```powershell
-   python "Vx.x.x.Universal.Video.Converter.py"
-   ```
+1. Place `V1.3.1.Universal.Video.Converter.exe` in the folder containing videos (or its parent folder)
+2. Double-click the EXE to run
 3. Select language (English/Chinese)
 4. Follow the interactive prompts
+
+#### Using Python Script
+
+1. Place the `.py` script in the folder containing videos
+2. Double-click the script or run from terminal:
+   ```powershell
+   python "V1.3.1.Universal.Video.Converter.py"
+   ```
+3. Select language and follow prompts
 
 #### Workflow (Basic Mode)
 
@@ -209,36 +226,53 @@ GNU GPL v3.0
 
 ### 🚀 安装步骤
 
+#### 方式 A：下载 EXE（推荐 - 最简单）
+
 1. **安装 FFmpeg**（必需）
-   - 方式 A：使用 winget
+   - 使用 winget：
      ```powershell
      winget install FFmpeg
      ```
-   - 方式 B：手动安装 https://ffmpeg.org/download.html
+   - 或手动安装 https://ffmpeg.org/download.html
    - ⚠️ **重要**：FFmpeg 必须添加到系统 PATH 环境变量
    - 验证安装：
      ```powershell
      ffmpeg -version
      ```
 
+2. **下载 EXE 文件**
+   - 前往 [Releases](../../releases) 页面
+   - 下载 `V1.3.1.Universal.Video.Converter.exe`
+   - 完成！无需安装 Python。
+
+#### 方式 B：运行源代码（适合开发者）
+
+1. **安装 FFmpeg**（同上）
+
 2. **安装 Python**（3.8+，推荐 3.12.10）
    - 下载地址：https://www.python.org/downloads/
    - 无需安装额外的 pip 包 - 仅使用内置模块
 
 3. **下载脚本**
-   - 下载或克隆脚本到目标位置
+   - 克隆或下载 `V1.3.1.Universal.Video.Converter.py`
 
 ### 📖 使用方法
 
-#### 基本用法
+#### 使用 EXE 版本
 
-1. 将脚本放置在包含视频的文件夹中
-2. 双击脚本运行（推荐）或从终端执行:
+1. 将 `V1.3.1.Universal.Video.Converter.exe` 放置在包含视频的文件夹中
+2. 双击 EXE 运行
+3. 选择语言（中文/英文）
+4. 按照提示操作
+
+#### 使用 Python 脚本
+
+1. 将 `.py` 脚本放置在包含视频的文件夹中
+2. 双击脚本或从终端执行：
    ```powershell
-   python "Vx.x.x.Universal.Video.Converter.py"
+   python "V1.3.1.Universal.Video.Converter.py"
    ```
-3. 选择语言（英文/中文）
-4. 按照交互式提示操作
+3. 选择语言并按提示操作
 
 #### 工作流程（基础模式）
 
