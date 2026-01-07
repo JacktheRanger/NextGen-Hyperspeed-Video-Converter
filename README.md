@@ -91,7 +91,7 @@ Advanced Mode provides additional options for power users who need more control 
 ##### Additional Input Formats
 | Format | Description |
 |--------|-------------|
-| `.mp4`, `.mov`, `.mkv`, `.webm` | Additional formats supported in Advanced Mode |
+| `.mp4`, `.mov`, `.mkv` | Additional formats supported in Advanced Mode |
 
 ##### Workflow (Advanced Mode)
 ```
@@ -230,7 +230,7 @@ GNU GPL v3.0
 
 #### 基本用法
 
-1. 将脚本放置在包含视频的文件夹中（或其父文件夹）
+1. 将脚本放置在包含视频的文件夹中
 2. 双击脚本运行（推荐）或从终端执行:
    ```powershell
    python "(Vx.x.x) Universal Video to MP4 Converter.py"
@@ -260,7 +260,7 @@ GNU GPL v3.0
 ##### 额外支持的输入格式
 | 格式 | 说明 |
 |------|------|
-| `.mp4`, `.mov`, `.mkv`, `.webm` | 高级模式额外支持的格式 |
+| `.mp4`, `.mov`, `.mkv` | 高级模式额外支持的格式 |
 
 ##### 工作流程（高级模式）
 ```
