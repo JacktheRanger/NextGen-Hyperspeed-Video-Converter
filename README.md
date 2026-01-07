@@ -127,6 +127,7 @@ GNU GPL v3.0
 
 **Jack Ji**
 
+![Downloads](https://img.shields.io/github/downloads/JacktheRanger/Video-Converter/total.svg)
 ---
 
 ## 中文
@@ -251,6 +252,7 @@ GNU GPL v3.0
 ### 👤 作者
 
 **Jack Ji**
+
 
 
 
