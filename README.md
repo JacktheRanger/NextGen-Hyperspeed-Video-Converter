@@ -8,7 +8,8 @@
 
 A powerful batch video converter with GUI that converts your old video files to the most stable format with NVENC hardware acceleration support, and bilingual interface (English/Chinese).
 
-<img width="1847" height="1857" alt="image" src="https://github.com/user-attachments/assets/0686f5f5-36f9-43a3-b366-df615a315db3" />
+<img width="1858" height="1828" alt="image" src="https://github.com/user-attachments/assets/37e3c4ac-3c17-4524-9969-2180e5903c8b" />
+
 
 
 
@@ -341,6 +342,7 @@ GNU GPL v3.0
 **Jack Ji**
 
 ![下载量](https://img.shields.io/github/downloads/JacktheRanger/Video-Converter/total.svg)
+
 
 
 
