@@ -10,6 +10,8 @@
 
 NextGen hyperspeed lightweight but powerful batch video converter with a GUI that delivers ultrafast performance via NVENC hardware acceleration. It transforms legacy video files into modern, efficient formats with superior stability and high-concurrency processing, and fully bilingual (English/Chinese).
 
+> ⭐ **If you find this project useful, please consider giving it a Star!** Your support helps keep the project alive and motivates further development.
+
 <img width="1703" height="1837" alt="image" src="https://github.com/user-attachments/assets/97129e92-2138-4ac2-a5cc-435afbfe4587" />
 
 
@@ -197,7 +199,7 @@ GNU GPL v3.0
 
 ### 👤 Author
 
-**Jack Ji**
+Jack Ji &nbsp;&nbsp;  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jackji)
 
 
 ---
@@ -206,6 +208,8 @@ GNU GPL v3.0
 # 🎬 次世代极速视频转换工具
 
 一款具备GUI的次世代轻量专业批量视频转换工具，通过NVENC硬件加速提供最极致的并发并行处理能力。您无需任何编程或者编码的知识，可一键将您的老视频文件自动转换为画质最优、最稳定、体积最小的格式。配备全双语界面（中/英）。
+
+> ⭐ **如果觉得这个项目有用，请给我一个 Star！** 谢谢~
 
 <img width="1690" height="1843" alt="image" src="https://github.com/user-attachments/assets/cf350306-a7c5-4da4-96c9-026feae56c3b" />
 
@@ -394,11 +398,12 @@ GNU GPL v3.0
 
 ### 👤 作者
 
-**Jack Ji**
+Jack Ji &nbsp;&nbsp;  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jackji)
 
 ---
 
 <p align="center"><a href="#top">Back to Top</a></p>
+
 
 
 
